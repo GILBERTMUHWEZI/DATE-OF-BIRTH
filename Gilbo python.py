@@ -1,3 +1,9 @@
+#MUHWEZI GILBERT
+#I6/U/659
+#BELE
+
+
+
 import datetime, calendar
 current_year=2017
 date=input("Enter date of birth (1-31)\n")
